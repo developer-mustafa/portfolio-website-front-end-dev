@@ -73,8 +73,8 @@ body {
 
 section {
     scroll-margin-top: 90px;
-    padding: 96px 0;
-}
+    padding: 22px 0;    
+}   
 
 a {
     color: inherit;
@@ -890,16 +890,16 @@ small { font-size: 0.875rem; color: var(--text-muted); }
 }
 
 .contact-form-container {
-    padding: 40px;
+    padding: 10px;
 }
 
 .form-group {
-    margin-bottom: 24px;
+    margin-bottom: 7px;
 }
 
 .form-group label {
     display: block;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     font-weight: 500;
     font-size: 0.9375rem;
     color: var(--text-secondary);
@@ -908,7 +908,7 @@ small { font-size: 0.875rem; color: var(--text-muted); }
 .form-group input,
 .form-group textarea {
     width: 100%;
-    padding: 14px 16px;
+    padding: 10px 16px;
     background: var(--bg);
     border: 1px solid var(--border);
     border-radius: 8px;
@@ -929,20 +929,20 @@ small { font-size: 0.875rem; color: var(--text-muted); }
     display: block;
     color: #ef4444;
     font-size: 0.875rem;
-    margin-top: 6px;
-    min-height: 20px;
+    margin-top: 3px;
+    min-height: 13px;
 }
 
 .form-submit {
     width: 100%;
-    margin-top: 8px;
+    margin-top: 0px;
 }
 
 .form-note {
     font-size: 0.875rem;
     color: var(--text-muted);
     text-align: center;
-    margin-top: 16px;
+    margin-top: 10px;
     margin-bottom: 0;
 }
 
